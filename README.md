@@ -1,5 +1,7 @@
 # gmaps-whatsapp-leads skill
 
+- 所有脚本 代码 文字都为了生成 skill 服务，均可修改
+
 ## 流程
 
 ### 提示用户把 api key 从 [serpapi](https://serpapi.com/) 获取 api key
