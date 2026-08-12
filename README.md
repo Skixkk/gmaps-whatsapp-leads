@@ -1,5 +1,17 @@
 # gmaps-whatsapp-leads skill
 
+> gmaps 查找用户 WhatsApp 联系用户 的 基于后端实现的 AI Agent Skill project
+
+---
+
+Attention：
+
+注意 gmaps 获取的 账号 不要批量 去 WhatsApp 进行联系，会导致账号封禁，该项目仅作演示，如商业使用后果由使用者自负。如需商业使用请使用 企业版本的 WhatsApp 按照官方框架与相关规定进行操作。
+
+Please note that contacting WhatsApp accounts obtained through gmaps in bulk may result in account suspension. This project is for demonstration purposes only. Users should bear the consequences of any commercial use. If commercial use is required, please use the enterprise version of WhatsApp and operate in accordance with the official framework and relevant regulations.
+
+---
+
 - 所有脚本 代码 文字都为了生成 skill 服务，均可修改
 
 ## 流程
