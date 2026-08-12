@@ -12,7 +12,7 @@ Please note that contacting WhatsApp accounts obtained through gmaps in bulk may
 
 ---
 
-- 所有脚本 代码 文字都为了生成 skill 服务，均可修改
+- 所有脚本 代码 文字都为了生成 获客与检索 skill 服务，AI Agent or Human Behavior 均可修改
 
 ## 流程
 
